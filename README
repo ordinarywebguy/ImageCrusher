@@ -1,0 +1,5 @@
+Improve the performance of your website via squeezing png and jpg files without affecting the quality of it.
+
+ImageCrusher does the compression using pngcrush and jpegtran. Compress a single image file or in a batch.
+
+See samples.php file for sample usage.
